@@ -1,1 +1,1 @@
-export const v1_base_url = "aniwave.ru";
+export const v1_base_url = "aniwaves.ru";
